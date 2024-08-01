@@ -35,9 +35,9 @@ see en-subject.pdf to learn about all the rules.
 
 3 teams
 
-[![Watch the video](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy_3teams-1.png)](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4)
+![Watch the video](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy_3teams-1.png)(https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4)
 
-<video src="ressources/zappy-60_ayegwQ7E.mp4" width="320" height="240" controls></video>
+<video src="ressources/zappy-60_ayegwQ7E.mp4](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4" width="320" height="240" controls></video>
 
 SCREENSHOTS
 
