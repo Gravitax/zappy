@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-arr=("a" "b" "c" "d")
+arr=("a" "b" "c")
 
 for ((i = 0; i < ${#arr[@]}; i++))
 do
