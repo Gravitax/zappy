@@ -39,7 +39,7 @@ see en-subject.pdf to learn about all the rules.
 <!-- [![Watch the video](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy_3teams-2.png)](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E(2).mp4) -->
 
 VIDEO (click on the below screenshot to see the gameplay in video)
-[![Watch the video](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy_3teams-2.png)](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy_3teams-1.png)](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4)
 
 
 SCREENSHOTS
