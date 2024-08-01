@@ -35,11 +35,11 @@ see en-subject.pdf to learn about all the rules.
 
 3 teams
 
-[![Watch the video](https://raw.githubusercontent.com/gravitax/zappy/main/ressources/zappy_3teams-1.png)](https://raw.githubusercontent.com/gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Gravitax/zappy/main/ressources/zappy-60_ayegwQ7E.mp4)
 
 SCREENSHOTS
 
-![alt text](<ressources/zappy_3teams-1.png>)
+<!-- ![alt text](<ressources/zappy_3teams-1.png>) -->
 ![alt text](<ressources/zappy_3teams-2.png>)
 ![alt text](<ressources/zappy_3teams-3.png>)
 ![alt text](<ressources/zappy_3teams-4.png>)
